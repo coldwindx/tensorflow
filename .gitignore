@@ -137,3 +137,5 @@ mnist/*
 !mnist/*.py
 cifar/*
 !cifar/*.py
+word/*
+!word/*.py
